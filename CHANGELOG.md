@@ -1,11 +1,11 @@
 # CHANGELOG
 ## New Update
-### Combo fonts
-#### `v2.5`  [Link file](https://github.com/Black7Yuyu/Module/releases/download/fonts/Combo-fonts.zip)
+### Combo 16 fonts sets
+#### `v4.0`  [Link file](https://github.com/Black7Yuyu/Module/releases/download/fonts/Combo-16-fonts-sets.zip)
 - Description
   - Update script
 
 # Update history
-### Combo fonts
-#### `v2.0`
-- Date 26/03/2023
+### Combo 16 fonts sets
+#### `v4.0`
+- Date 11/04/2023
